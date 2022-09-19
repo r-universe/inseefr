@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "disaggR"]
-	path = disaggR
-	url = https://github.com/inseefr/disaggr
-	shallow = true
-	registered = true
