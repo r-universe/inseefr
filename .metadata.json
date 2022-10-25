@@ -1,5 +1,9 @@
 [
   {
+    "package": "btb",
+    "oncran": true
+  },
+  {
     "package": "disaggR",
     "oncran": true
   }
