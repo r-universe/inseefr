@@ -1,10 +1,10 @@
 [
   {
-    "package": "btb",
+    "package": "disaggR",
     "oncran": true
   },
   {
-    "package": "disaggR",
+    "package": "btb",
     "oncran": true
   }
 ]
