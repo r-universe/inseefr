@@ -13,3 +13,8 @@
 	url = https://github.com/inseefr/disaggr
 	shallow = true
 	registered = true
+[submodule "gustave"]
+	path = gustave
+	url = https://github.com/inseefr/gustave
+	shallow = true
+	registered = true
