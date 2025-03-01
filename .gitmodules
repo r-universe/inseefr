@@ -14,3 +14,6 @@
 [submodule "gustave"]
 	path = gustave
 	url = https://github.com/inseefr/gustave
+[submodule "icarus"]
+	path = icarus
+	url = https://github.com/inseefr/icarus
