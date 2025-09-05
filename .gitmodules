@@ -8,9 +8,6 @@
 [submodule "btb"]
 	path = btb
 	url = https://github.com/inseefr/btb
-[submodule "disaggR"]
-	path = disaggR
-	url = https://github.com/inseefr/disaggr
 [submodule "gustave"]
 	path = gustave
 	url = https://github.com/inseefr/gustave
