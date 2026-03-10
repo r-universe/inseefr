@@ -17,3 +17,8 @@
 [submodule "rjd3production"]
 	path = rjd3production
 	url = https://github.com/inseefr/rjd3production
+[submodule "rjd3workspace"]
+	path = rjd3workspace
+	url = https://github.com/rjdverse/rjd3workspace
+	branch = develop
+	registered = false
