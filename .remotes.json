@@ -1,9 +1,0 @@
-[
-  {
-    "package": "rjd3workspace",
-    "url": "https://github.com/rjdverse/rjd3workspace",
-    "via": ["rjd3production"],
-    "branch": "develop",
-    "from": "rjd3production"
-  }
-]
