@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "JDCruncheR"]
 	path = JDCruncheR
-	url = https://github.com/inseefr/jdcruncher
+	url = https://github.com/inseefr/rjd3qr
 [submodule "btb"]
 	path = btb
 	url = https://github.com/inseefr/btb
