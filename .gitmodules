@@ -17,3 +17,6 @@
 [submodule "rjd3production"]
 	path = rjd3production
 	url = https://github.com/inseefr/rjd3production
+[submodule "rjd3qr"]
+	path = rjd3qr
+	url = https://github.com/inseefr/rjd3qr
