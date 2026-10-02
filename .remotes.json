@@ -1,0 +1,38 @@
+[
+  {
+    "package": "rjd3jars",
+    "url": "https://github.com/rjdverse/rjd3jars",
+    "via": ["rjd3production"],
+    "from": "rjd3production"
+  },
+  {
+    "package": "rjd3providers",
+    "url": "https://github.com/rjdverse/rjd3providers",
+    "via": ["rjd3production"],
+    "from": "rjd3production"
+  },
+  {
+    "package": "rjd3toolkit",
+    "url": "https://github.com/rjdverse/rjd3toolkit",
+    "via": ["rjd3production"],
+    "from": "rjd3production"
+  },
+  {
+    "package": "rjd3tramoseats",
+    "url": "https://github.com/rjdverse/rjd3tramoseats",
+    "via": ["rjd3production", "rjd3workspace"],
+    "from": "rjd3production"
+  },
+  {
+    "package": "rjd3workspace",
+    "url": "https://github.com/rjdverse/rjd3workspace",
+    "via": ["rjd3production"],
+    "from": "rjd3production"
+  },
+  {
+    "package": "rjd3x13",
+    "url": "https://github.com/rjdverse/rjd3x13",
+    "via": ["rjd3production", "rjd3workspace"],
+    "from": "rjd3production"
+  }
+]

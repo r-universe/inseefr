@@ -14,9 +14,33 @@
 [submodule "gustave"]
 	path = gustave
 	url = https://github.com/inseefr/gustave
+[submodule "rjd3jars"]
+	path = rjd3jars
+	url = https://github.com/rjdverse/rjd3jars
+	registered = false
 [submodule "rjd3production"]
 	path = rjd3production
 	url = https://github.com/inseefr/rjd3production
+[submodule "rjd3providers"]
+	path = rjd3providers
+	url = https://github.com/rjdverse/rjd3providers
+	registered = false
 [submodule "rjd3qr"]
 	path = rjd3qr
 	url = https://github.com/inseefr/rjd3qr
+[submodule "rjd3toolkit"]
+	path = rjd3toolkit
+	url = https://github.com/rjdverse/rjd3toolkit
+	registered = false
+[submodule "rjd3tramoseats"]
+	path = rjd3tramoseats
+	url = https://github.com/rjdverse/rjd3tramoseats
+	registered = false
+[submodule "rjd3workspace"]
+	path = rjd3workspace
+	url = https://github.com/rjdverse/rjd3workspace
+	registered = false
+[submodule "rjd3x13"]
+	path = rjd3x13
+	url = https://github.com/rjdverse/rjd3x13
+	registered = false
